@@ -1,2 +1,3 @@
 pertama bikin file di repository
 masih coba coba main github
+pertama mencoba commit 
